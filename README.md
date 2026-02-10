@@ -13,14 +13,14 @@
 
 ***Arabic Version :*** [Here](https://share.note.sx/iy83k91j#V9ZH2qct9VKFdZGw8WUAcer3WYSVb36Js8AnHJ0YdW8)
 
->**Why GitHub ?
->Why visibility is so important ?
-> Lean Software Development (LSD)
-> Backlog
-> GitHub Teams Enterprise Structure
-> A Team That Work Without Asking
-> Excellence in High Standards & Flexible Speed
-> Data Driven Decisions**
+>**Why GitHub ?**
+>**Why visibility is so important ?**
+> **Lean Software Development (LSD)**
+> **Backlog**
+> **GitHub Teams Enterprise Structure**
+> **A Team That Work Without Asking**
+> **Excellence in High Standards & Flexible Speed**
+> **Data Driven Decisions**
 
 
 ---
