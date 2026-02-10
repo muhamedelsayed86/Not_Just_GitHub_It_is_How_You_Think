@@ -11,7 +11,7 @@
 
 ## Phase 1 : Topics
 
-***Arabic Version : [Here](https://share.note.sx/iy83k91j#V9ZH2qct9VKFdZGw8WUAcer3WYSVb36Js8AnHJ0YdW8)
+***Arabic Version :*** [Here](https://share.note.sx/iy83k91j#V9ZH2qct9VKFdZGw8WUAcer3WYSVb36Js8AnHJ0YdW8)
 
 >**Why GitHub ?
 >Why visibility is so important ?
